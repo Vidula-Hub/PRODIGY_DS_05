@@ -9,3 +9,4 @@ venv/
 
 # Data
 data/*.csv  # Optional: exclude dataset
+data/US_Accidents_March23.csv
